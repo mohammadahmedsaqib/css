@@ -1,0 +1,44 @@
+/* universal selector */
+/* *{
+    color: aquamarine;
+} */
+/* type selectors */
+
+/* single type */
+/* h1{color: crimson;} */
+
+/* multiple selector */
+/* h2,span{
+    color: blue;
+} */
+
+/* class selector */
+/* .interest{
+    color: blue;
+} */
+
+/* id selector */
+/* #ahmed{
+    color: chocolate;
+} */
+
+/* child selector */
+/* span>p{
+    color: brown;
+} */
+
+/* descendant selector */
+/* div p{
+    color: blueviolet;
+} */
+
+/* adjacent sibling selector */
+/* h1+p{
+    color: blue;
+} */
+
+/* general sibling selector */
+/* h1~p{
+    color: brown;
+} */
+
